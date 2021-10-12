@@ -6,8 +6,13 @@
   "license": "MIT",
   "keywords": ["lerna", "create"],
   "homepage": "https://github.com/a572251465/create-lerna-package",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a572251465/create-lerna-package.git"
+  },
   "bugs": {
-    
+    "url": "https://github.com/a572251465/create-lerna-package/issues",
+    "email": "2495041749@qq.com"
   },
   "files": [
     "dist",
