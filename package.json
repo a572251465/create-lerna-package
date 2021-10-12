@@ -1,0 +1,16 @@
+{
+  "name": "create-lerna-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "lihaohao <2495041749@qq.com>",
+  "license": "MIT",
+  "keywords": ["lerna", "create"],
+  "homepage": "https://github.com/a572251465/create-lerna-package",
+  "bugs": {
+    
+  },
+  "files": [
+    "dist",
+    "src"
+  ]
+}
